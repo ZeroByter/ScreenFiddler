@@ -19,6 +19,6 @@ By simply getting the desktop window, and then it's handle, we are able to manip
 This allows us to have some fun by drawing pretty much whatever we want over any part of the screen without being limited to first creating a gui window and drawing on that.
 
 ### Is it destructive?
-It could certainly be modified to being destructive, but in it's current form **no**, it's designed to be more of a short-term fun prank. At any moment during the programs execution, the program can be closed and stopped by literally pressing any alphabetical key on the keyboard, and thus having no long-term effects on the victim computer.
+It could certainly be modified to be destructive, but in it's current form **no**, it's designed to be more of a short-term fun prank. At any moment during the programs execution, the program can be closed and stopped by literally pressing any alphabetical key on the keyboard, and thus having no long-term effects on the victim computer.
 
-All the left-over graphical glitches can be rmeoved by simply refreshing the screen, by for example moving a window over the screen.
+All the left-over graphical glitches can be removed by simply refreshing the screen, by for example moving a window over the screen.
