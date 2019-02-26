@@ -76,7 +76,7 @@ PAYLOADFUNCTION(cursorErrors) {
 
 	DrawIcon(hdc, cursor.x - ix, cursor.y - iy, LoadIcon(NULL, IDI_ERROR));
 
-	return 500;
+	return 1;
 }
 
 PAYLOADFUNCTION(cursorIcons) {
